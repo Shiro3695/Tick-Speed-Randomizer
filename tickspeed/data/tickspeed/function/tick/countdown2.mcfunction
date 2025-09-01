@@ -1,0 +1,1 @@
+tellraw @a {"text":"tick changing in 2 seconds","color":"red"}
