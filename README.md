@@ -14,7 +14,7 @@ This is a minecraft data pack that changes the world tick speed to a random valu
 
 ### Installing
 
-* Place tickspeed folder into the world/datapacks directory
+* Unzip and place tickspeed folder into the world/datapacks directory
 * Note: For a server, you will need change the function-permission-level, in server.properties, to 3 or above
 
 ### Executing program
