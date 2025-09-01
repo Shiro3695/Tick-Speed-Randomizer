@@ -3,7 +3,7 @@ Randomizes the tick speed in minecraft every 5 minutes
 
 # Description
 
-Will change the world tick speed to a random value between 10 to 250 (it can go higher but i don't reccomend it), every 5 minutes.
+This is a minecraft data pack that changes the world tick speed to a random value between 10 to 250 (it can go higher but i don't reccomend it), every 5 minutes.
 (May Notch have mercy on you if you try this.)
 
 ## Getting Started
